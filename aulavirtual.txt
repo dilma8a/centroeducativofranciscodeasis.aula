@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Aula Virtual - Historia Universal</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background-color: #F5EFEB; /* Fondo principal */
+      color: #2F4156; /* Color de texto principal */
+    }
+
+    header {
+      background-color: #2F4156; /* Color de encabezado */
+      color: #FFFFFF;
+      padding: 20px;
+      text-align: center;
+    }
+
+    .container {
+      padding: 20px;
+      max-width: 1200px;
+      margin: auto;
+    }
+
+    h2 {
+      color: #2F4156; /* Títulos */
+    }
+
+    .card {
+      background-color: #FFFFFF;
+      border-left: 5px solid #567C8D;
+      padding: 15px;
+      margin: 10px 0;
+      border-radius: 8px;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    }
+
+    .section {
+      background-color: #C8D9E6; /* Fondo secciones */
+      padding: 15px;
+      border-radius: 8px;
+      margin-bottom: 20px;
+    }
+
+    footer {
+      background-color: #2F4156;
+      color: white;
+      text-align: center;
+      padding: 10px;
+      margin-top: 30px;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Aula Virtual de Historia Universal</h1>
+    <p>Área de Bachillerato</p>
+  </header>
+
+  <div class="container">
+    <div class="section">
+      <h2>Profesor</h2>
+      <div class="card">
+        <p><strong>Nombre:</strong> Juan Pérez</p>
+      </div>
+    </div>
+
+    <div class="section">
+      <h2>Alumnos Matriculados</h2>
+      <div class="card">Ana Gómez</div>
+      <div class="card">Carlos Díaz</div>
+      <div class="card">María Torres</div>
+      <div class="card">José Morales</div>
+      <div class="card">Lucía Fernández</div>
+      <div class="card">Miguel Ruiz</div>
+      <div class="card">Diana Ríos</div>
+      <div class="card">Luis Hernández</div>
+      <div class="card">Valeria Soto</div>
+      <div class="card">Fernando Pérez</div>
+    </div>
+
+    <div class="section">
+  <h2>Clases</h2>
+  <div class="card">
+    <a href="La_Revolución_Francesa.pdf" target="_blank">La Revolución Francesa (PDF)</a>
+  </div>
+  <div class="card">
+    <a href="Imperialismo_del_siglo_XIX.pdf" target="_blank">Imperialismo del siglo XIX (PDF)</a>
+  </div>
+  <div class="card">
+    <a href="Primera_Guerra_Mundial.pdf" target="_blank">Primera Guerra Mundial (PDF)</a>
+  </div>
+  <div class="card">
+    <a href="La_Guerra_Fría.pdf" target="_blank">La Guerra Fría (PDF)</a>
+  </div>
+  <div class="card">
+    <a href="Globalización_y_Sociedad_Actual.pdf" target="_blank">Globalización y Sociedad Actual (PDF)</a>
+  </div>
+</div>
+
+    <div class="section">
+      <h2>Foros</h2>
+      <div class="card">¿Cuál fue el impacto más importante de la Revolución Francesa?</div>
+      <div class="card">¿Cómo nos afecta la globalización hoy en día?</div>
+    </div>
+
+    <div class="section">
+      <h2>Tareas</h2>
+      <div class="card">Línea del tiempo de conflictos del siglo XX</div>
+      <div class="card">Ensayo sobre el impacto de la Guerra Fría</div>
+    </div>
+
+    <div class="section">
+      <h2>Cuestionarios</h2>
+      <div class="card">Revolución Francesa</div>
+      <div class="card">Guerra Fría</div>
+    </div>
+  </div>
+
+  <footer>
+    &copy; 2025 Aula Virtual Bachillerato – Historia Universal
+  </footer>
+
+</body>
+</html>
